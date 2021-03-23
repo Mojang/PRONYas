@@ -1,0 +1,65 @@
+C:\Users\Yaser\AppData\Local\Temporary Projects\WordEditor\bin\Debug\WordEditor.exe.config
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\WordEditor.exe
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\WordEditor.pdb
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\WordEditor.xml
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.Form1.resources
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.Resources.resources
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.vbproj.GenerateResource.Cache
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.exe
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.xml
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.pdb
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.vbprojResolveAssemblyReference.cache
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\Spire.Doc.dll
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\Spire.License.dll
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\Spire.Pdf.dll
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\Spire.Doc.xml
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\Spire.License.xml
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\bin\Debug\Spire.Pdf.xml
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.uctArgumentBase.resources
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.uctArgumentNumeric.resources
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.uctArgumentDate.resources
+Z:\000_Personliga filer\000_Yaser\000_VB\000_WordEditor\WordEditor\WordEditor\obj\Debug\WordEditor.uctArgumentText.resources
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\WordEditor.exe
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\WordEditor.pdb
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\WordEditor.xml
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\Spire.License.dll
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\Spire.Pdf.dll
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\Microsoft.mshtml.dll
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\Spire.Doc.xml
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\Spire.License.xml
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\bin\Debug\Spire.Pdf.xml
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.vbprojAssemblyReference.cache
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.Form1.resources
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.Resources.resources
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.uctArgumentBase.resources
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.uctArgumentDate.resources
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.uctArgumentNumeric.resources
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.uctArgumentText.resources
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.vbproj.GenerateResource.cache
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.vbproj.CoreCompileInputs.cache
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.vbproj.CopyComplete
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.exe
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.xml
+C:\Users\v-yamosa\Desktop\WordEditor\WordEditor\obj\Debug\WordEditor.pdb
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\WordEditor.exe
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\WordEditor.pdb
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\WordEditor.xml
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\Spire.License.dll
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\Spire.Pdf.dll
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\Microsoft.mshtml.dll
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\Spire.Doc.xml
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\Spire.License.xml
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\bin\Debug\Spire.Pdf.xml
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.vbprojAssemblyReference.cache
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.Form1.resources
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.Resources.resources
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.uctArgumentBase.resources
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.uctArgumentDate.resources
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.uctArgumentNumeric.resources
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.uctArgumentText.resources
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.vbproj.GenerateResource.cache
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.vbproj.CoreCompileInputs.cache
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.vbproj.CopyComplete
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.exe
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.xml
+C:\Users\v-yamosa\Desktop\Yasminator\WordEditor\obj\Debug\WordEditor.pdb
